@@ -10,3 +10,7 @@ a{
 *{
     font-family: 'KaiTi';
 }
+.welcome{
+    font-size: 20px;
+    color: hsl(314, 63%, 47%);
+}
